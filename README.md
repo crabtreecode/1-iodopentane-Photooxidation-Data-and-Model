@@ -6,7 +6,7 @@
 
 
 
-#### 1\. The Experiment_CIMS_exports folder contains subfolders for the 5 experiments, each containing 4 .csv files exported from Tofware v4.0.3 running in Igor Pro v9.0.5.1:
+#### 1\. The Experiment_CIMS_exports folder contains zipped-subfolders for the 5 experiments, each containing 4 .csv files exported from Tofware v4.0.3 running in Igor Pro v9.0.5.1:
 
 
 
